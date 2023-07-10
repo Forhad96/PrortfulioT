@@ -1,0 +1,24 @@
+Font Family:
+The font family used throughout the website should be "Open Sans".
+
+
+Navbar:
+1. The navbar should have a dropdown menu.. The dropdown menu 
+2.a button in the dropdown named call ,when clicked takes to the "Mailbox".
+
+____________________________________
+____________________________________
+
+3. Contact Section:
+ A contact section should be implemented.
+ The contact section should include fields for:
+
+ Name
+ Phone number
+ Password
+ Email
+ A submit button should be provided to send the contact form.
+
+ 4. List Items:
+
+ 5. finally there should be a footer with social links
